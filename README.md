@@ -43,3 +43,17 @@ MUDBuilderDemo.java: Demonstrates the use of the builder pattern to create a dun
 MUDPrototypeDemo.java: Demonstrates the use of the prototype pattern to clone rooms.
 
 MUDCombinedDemo.java: Shows a combined demonstration where the builder and prototype patterns are used together to extend the dungeon.
+
+MUDBuilderDemo.java Output:
+![image](https://github.com/user-attachments/assets/555ae063-80f6-4cb0-9cea-e5ed3c61932d)
+
+MUDPrototypeDemo.java Output:
+![image](https://github.com/user-attachments/assets/ad9c0664-cadd-442d-9d3f-94e405a3cdc5)
+
+MUDCombinedDemo.java Output:
+![image](https://github.com/user-attachments/assets/76521470-de29-46eb-8aea-ed88eef18e98)
+
+
+
+
+
